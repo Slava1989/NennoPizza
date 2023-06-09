@@ -1,0 +1,1868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1B04801D-E3BF-4123-AAF4-BFA84DD57663"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "403492DE-FCA4-49A7-A950-4E351ADD2E17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchPizza(onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "403492DE-FCA4-49A7-A950-4E351ADD2E17 - 5e5a15b15be226be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeWorker.fetchPizza(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchPizza.Pizza&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "403492DE-FCA4-49A7-A950-4E351ADD2E17 - 5e5a15b15be22afb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeWorker.fetchPizza(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchPizza.Pizza&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "403492DE-FCA4-49A7-A950-4E351ADD2E17 - 8fdb74ead83ef366"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeWorker.fetchPizza(onComplete: (Swift.Optional&lt;NennoPizza.Home.FetchPizza.PizzaList&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "999F2741-4484-4139-A227-64B55895402F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getPizzas()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "193FE47E-1276-4369-8419-D4E084EA6CA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchIngridients(onComplete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9A18DDC-3BFB-4379-997D-E6885E1182E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchIngridients(onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9A18DDC-3BFB-4379-997D-E6885E1182E6 - 93de4c9a717085bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeWorker.fetchIngridients(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "C9A18DDC-3BFB-4379-997D-E6885E1182E6 - 93de4c9a717085bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeWorker.fetchIngridients(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "563351FF-9D49-40C5-885B-14187A1189AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchIngridients(onComplete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEFB7964-6140-4A6F-8FCA-2EEC395AF873"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "fetchPizza(onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DEFB7964-6140-4A6F-8FCA-2EEC395AF873 - b68bccb155ec9133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.HomeWorker.fetchPizza(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchPizza.Pizza&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "DEFB7964-6140-4A6F-8FCA-2EEC395AF873 - 898828de9f991ac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.HomeWorker.fetchPizza(onComplete: (Swift.Optional&lt;NennoPizza.Home.FetchPizza.PizzaList&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49AF7B76-1D74-4F62-AAA8-1E7355A1D89E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getPizzas()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49AF7B76-1D74-4F62-AAA8-1E7355A1D89E - d23ef21ea93e0ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "49AF7B76-1D74-4F62-AAA8-1E7355A1D89E - a05c7497c5b0495c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "49AF7B76-1D74-4F62-AAA8-1E7355A1D89E - d23ef21ea93e0b6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "49AF7B76-1D74-4F62-AAA8-1E7355A1D89E - a05c7497c5b04ea1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B80DD82D-9168-4775-A020-3BE038D62C99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchPizza(onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B80DD82D-9168-4775-A020-3BE038D62C99 - b68bccb155ec9360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.HomeWorker.fetchPizza(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchPizza.Pizza&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "B80DD82D-9168-4775-A020-3BE038D62C99 - 898828de9f99189a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.HomeWorker.fetchPizza(onComplete: (Swift.Optional&lt;NennoPizza.Home.FetchPizza.PizzaList&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B04FC36-8CDA-464A-B6E8-FB8CD5C812DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchIngridients(onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B04FC36-8CDA-464A-B6E8-FB8CD5C812DA - 3a89440eac461e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.HomeWorker.fetchIngridients(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "5B04FC36-8CDA-464A-B6E8-FB8CD5C812DA - 3a89440eac461e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.HomeWorker.fetchIngridients(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "5B04FC36-8CDA-464A-B6E8-FB8CD5C812DA - 3a89440eac461e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.HomeWorker.fetchIngridients(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10E1A15D-296A-4DAE-B473-34CF36FFDB23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchIngridients(onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10E1A15D-296A-4DAE-B473-34CF36FFDB23 - 93de4c9a71708400"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeWorker.fetchIngridients(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "10E1A15D-296A-4DAE-B473-34CF36FFDB23 - 3a89440eac461e80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.HomeWorker.fetchIngridients(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D89D170D-A4B9-487A-95A1-6273A59C2AC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getPizzas()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BD9DF3A-9DC5-4F1E-8F2E-D41C7913A726"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getPizzas()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BD9DF3A-9DC5-4F1E-8F2E-D41C7913A726 - d23ef21ea93e0a5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "3BD9DF3A-9DC5-4F1E-8F2E-D41C7913A726 - d13d6a906ab5c3fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4DC6A1E-8AF7-4C8A-A047-67F7ED2C36B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getPizzas()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4DC6A1E-8AF7-4C8A-A047-67F7ED2C36B8 - a05c7497c5b0495c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B4DC6A1E-8AF7-4C8A-A047-67F7ED2C36B8 - 2aa513e32101dd62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;NennoPizza.Home.FetchPizza.PizzaList&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83AC41EF-F822-456A-9C33-43202B583235"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getPizzas()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83AC41EF-F822-456A-9C33-43202B583235 - d23ef21ea93e09f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "83AC41EF-F822-456A-9C33-43202B583235 - a05c7497c5b04b0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in NennoPizza.HomeInteractor.getPizzas() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E78C4040-DE05-4B2C-B9BF-09E16A5266BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "presentFetchedPizzas(pizzas:ingridients:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E78C4040-DE05-4B2C-B9BF-09E16A5266BC - 506374891ea82054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NennoPizza.Home.FetchPizza.Pizza) -&gt; NennoPizza.Home.FetchPizza.PizzaViewModel in NennoPizza.HomePresenter.presentFetchedPizzas(pizzas: NennoPizza.Home.FetchPizza.PizzaList, ingridients: Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "E78C4040-DE05-4B2C-B9BF-09E16A5266BC - 506374891ea82012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NennoPizza.Home.FetchPizza.Pizza) -&gt; NennoPizza.Home.FetchPizza.PizzaViewModel in NennoPizza.HomePresenter.presentFetchedPizzas(pizzas: NennoPizza.Home.FetchPizza.PizzaList, ingridients: Swift.Array&lt;NennoPizza.Home.FetchIngredients.Ingridient&gt;) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35E1D4FF-8855-4007-9D31-C753B9CB72DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "presentFetchedPizzas(pizzas:ingridients:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B42873A8-2427-4026-9C2E-3F092C9AAC0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/Cell/PizzaCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "setupCell(viewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B42873A8-2427-4026-9C2E-3F092C9AAC0F - 87ee63c7557132ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.PizzaCell.setupCell(pizza: NennoPizza.Home.FetchPizza.PizzaViewModel) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/Cell/PizzaCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "B42873A8-2427-4026-9C2E-3F092C9AAC0F - 87ee63c7557132ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.PizzaCell.setupCell(pizza: NennoPizza.Home.FetchPizza.PizzaViewModel) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/Cell/PizzaCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B914DDA3-B145-413D-BDA3-AA2C76EA9804"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B914DDA3-B145-413D-BDA3-AA2C76EA9804 - ff1905bafff6f5d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "B914DDA3-B145-413D-BDA3-AA2C76EA9804 - b6f0c07586ea6e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NennoPizza.HomeViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "B914DDA3-B145-413D-BDA3-AA2C76EA9804 - ff1905bafff6f537"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B914DDA3-B145-413D-BDA3-AA2C76EA9804 - ff1905bafff6f5d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.HomeViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4E91C5D-B32A-4659-8D3B-C0B27A84890E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48E31899-7055-49BE-B8DE-33469FD48266"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getAllIngridients()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "085A0F78-137B-4C07-A036-C68B8BAF81A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getAllIngridients()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "085A0F78-137B-4C07-A036-C68B8BAF81A5 - bcefe654b9844093"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NennoPizza.Home.FetchIngredients.Ingridient) -&gt; NennoPizza.IngridientsModels.IngridientsViewModel in NennoPizza.IngridientsPresenter.getAllIngridients() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "085A0F78-137B-4C07-A036-C68B8BAF81A5 - 8c4f684c13c9fb26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NennoPizza.Home.FetchIngredients.Ingridient) -&gt; Swift.Bool in closure #1 (NennoPizza.Home.FetchIngredients.Ingridient) -&gt; NennoPizza.IngridientsModels.IngridientsViewModel in NennoPizza.IngridientsPresenter.getAllIngridients() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "085A0F78-137B-4C07-A036-C68B8BAF81A5 - fa222d2dbd28b9dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Bool in closure #1 (NennoPizza.Home.FetchIngredients.Ingridient) -&gt; NennoPizza.IngridientsModels.IngridientsViewModel in NennoPizza.IngridientsPresenter.getAllIngridients() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5BB738F-8C2F-42AF-963E-D79594E34652"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01C2B59F-DD3A-4A7C-9278-32490370F2FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1B23203-62B3-4A62-AB3D-6146664A41D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "displayPizzaImageAndName(image:url:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1425D252-9ECF-452C-B664-231FEDA9FAE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "displayPizzaImageAndName(image:url:name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1425D252-9ECF-452C-B664-231FEDA9FAE4 - 3c2590b58734c4d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.IngridientsViewController.displayPizzaImageAndName(image: Swift.Optional&lt;__C.UIImage&gt;, url: Swift.Optional&lt;Swift.String&gt;, name: Swift.String) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "1425D252-9ECF-452C-B664-231FEDA9FAE4 - 3c2590b58734c4d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.IngridientsViewController.displayPizzaImageAndName(image: Swift.Optional&lt;__C.UIImage&gt;, url: Swift.Optional&lt;Swift.String&gt;, name: Swift.String) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92EE5079-1128-4B41-B5DB-713A01D28A29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "updateCheckoutButton(price:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92EE5079-1128-4B41-B5DB-713A01D28A29 - 6f6d40edec5b4692"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.IngridientsViewController.updateCheckoutButton(price: Swift.Double) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "92EE5079-1128-4B41-B5DB-713A01D28A29 - 6f6d40edec5b4692"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.IngridientsViewController.updateCheckoutButton(price: Swift.Double) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B16C9420-58FA-43A8-9097-8FC2FF8188A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "saveToCart()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B16C9420-58FA-43A8-9097-8FC2FF8188A7 - 12bc9fd1a9653771"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.IngridientsPresenter.saveToCart() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "B16C9420-58FA-43A8-9097-8FC2FF8188A7 - 12bc9fd1a9653771"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.IngridientsPresenter.saveToCart() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B303038D-F362-418F-9CD1-781ADFC3CC79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "updateCheckoutButton()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B303038D-F362-418F-9CD1-781ADFC3CC79 - 700e0d5555c85cdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.IngridientsPresenter.updateCheckoutButton() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "B303038D-F362-418F-9CD1-781ADFC3CC79 - 38604ba611551a63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NennoPizza.IngridientsModels.IngridientsViewModel) -&gt; Swift.Bool in NennoPizza.IngridientsPresenter.updateCheckoutButton() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B303038D-F362-418F-9CD1-781ADFC3CC79 - 3e0e805e29425539"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Double, NennoPizza.IngridientsModels.IngridientsViewModel) -&gt; Swift.Double in NennoPizza.IngridientsPresenter.updateCheckoutButton() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Ingridients/IngridientsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72CE09F7-B75F-4C31-92A1-32ABBEC01CAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/Cell/TotalCartTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "setupCell(totalPrice:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BB04534-4893-4022-AD7F-CF1286456C71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BB04534-4893-4022-AD7F-CF1286456C71 - 996d0877c53a06b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "3BB04534-4893-4022-AD7F-CF1286456C71 - 996d0877c53a0694"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74F20829-7769-4482-ADF8-AE1F64B1DA3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "didTapCheckout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74F20829-7769-4482-ADF8-AE1F64B1DA3C - 7ed4dd6f6c91844e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.setTotalSum(totalSum: Swift.Double) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "74F20829-7769-4482-ADF8-AE1F64B1DA3C - ffdb9cf04ca0b0a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.didTapCheckout() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "74F20829-7769-4482-ADF8-AE1F64B1DA3C - ffdb9cf04ca0b363"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.didTapCheckout() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "74F20829-7769-4482-ADF8-AE1F64B1DA3C - ffdb9cf04ca0b3ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.didTapCheckout() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A1385AC-ADC2-4D92-B6BD-575868C46F5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchDrinks(onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A1385AC-ADC2-4D92-B6BD-575868C46F5D - bb9cb0ba5b49ab92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.DrinksWorker.fetchDrinks(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.DrinksScreen.FetchDrinks.Drinks&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Drinks/DrinksWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "1A1385AC-ADC2-4D92-B6BD-575868C46F5D - 7e4cb375f7546f32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.DrinksWorker.fetchDrinks(onComplete: (Swift.Optional&lt;Swift.Array&lt;NennoPizza.DrinksScreen.FetchDrinks.Drinks&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Drinks/DrinksWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70B0082F-C789-4A0F-B999-1A00BB4D72B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetchDrinks(onComplete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EE7BA38-9CB5-4DF7-9D74-97DADEC6DF2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchDrinks(onComplete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99E431FD-2FB6-415D-87B2-DC3478FB7293"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "presentFetchedDrinks(drinks:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C914D88E-3AA8-4B82-AF94-009AFBBCE430"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "presentFetchedDrinks(viewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCF71CE2-1091-43FC-8BD8-D612EFBF0F93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F097EA1E-A916-4C87-AC31-784CF1425DEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F097EA1E-A916-4C87-AC31-784CF1425DEC - b891896d8abca587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.DrinksViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Drinks/DrinksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "F097EA1E-A916-4C87-AC31-784CF1425DEC - b891896d8abca587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.DrinksViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Drinks/DrinksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2069CFA0-E25A-49EC-85FD-262B8AF73176"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "didTapPriceView(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F84CBC0F-435C-4FF0-8BBA-366736B6E044"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86B71FDF-2C55-4CCF-BF9B-FB70F97A5D48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getTotalSum()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86B71FDF-2C55-4CCF-BF9B-FB70F97A5D48 - 77ee6dda3fd9f1af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartPresenter.getTotalSum() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "86B71FDF-2C55-4CCF-BF9B-FB70F97A5D48 - ac5e587372b3f8cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Double, NennoPizza.GoodCartModel) -&gt; Swift.Double in NennoPizza.CartPresenter.getTotalSum() -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D64B2ED6-A28E-4804-98DE-5191A1CB9D17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "addDrinkToCart(drink:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D64B2ED6-A28E-4804-98DE-5191A1CB9D17 - d2c7aea14ec2bf40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.DrinksInteractor.addDrinkToCart(drink: Swift.Optional&lt;NennoPizza.DrinksScreen.FetchDrinks.Drinks&gt;) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Drinks/DrinksInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "D64B2ED6-A28E-4804-98DE-5191A1CB9D17 - d2c7aea14ec2bf40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.DrinksInteractor.addDrinkToCart(drink: Swift.Optional&lt;NennoPizza.DrinksScreen.FetchDrinks.Drinks&gt;) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Drinks/DrinksInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFBDD271-A955-42A0-A71C-9375C78DEA56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "addDrinkToCart(drink:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F9F83DB-4B4B-452F-9D41-A0F5F5DEB120"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Drinks/DrinksInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "addDrinkToCart(drink:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81EBE0B5-223A-48FE-8C2D-21E83566D6D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "81EBE0B5-223A-48FE-8C2D-21E83566D6D9 - 79a872a70f02be2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "81EBE0B5-223A-48FE-8C2D-21E83566D6D9 - 79a872a70f02bef0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "81EBE0B5-223A-48FE-8C2D-21E83566D6D9 - 79a872a70f02bd17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9F390CD-B33A-417F-979D-591192CDB9CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "setTotalSum(totalSum:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9F390CD-B33A-417F-979D-591192CDB9CE - 7ed4dd6f6c9187f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.setTotalSum(totalSum: Swift.Double) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "C9F390CD-B33A-417F-979D-591192CDB9CE - 7ed4dd6f6c9187ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.setTotalSum(totalSum: Swift.Double) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "C9F390CD-B33A-417F-979D-591192CDB9CE - 7ed4dd6f6c91840c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartViewController.setTotalSum(totalSum: Swift.Double) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "331DB5A9-B2EB-4E8D-9683-593F1D0D1677"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getTotalSum()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2505A09C-7C84-46B5-AB45-14E09DB8C749"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "checkout(pizzaList:drinkIds:onComplete:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FECE521-97A1-407C-992E-762205B20FC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "checkout(pizzaList:drinkIds:onComplete:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98C401B6-5034-4B37-8017-4EFA3EB9993F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "checkout(pizzaList:drinkIds:onComplete:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "98C401B6-5034-4B37-8017-4EFA3EB9993F - 1960871e6b8ab1df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NennoPizza.CartWorker.checkout(pizzaList: Swift.Array&lt;NennoPizza.Home.FetchPizza.Pizza&gt;, drinkIds: Swift.Array&lt;Swift.Int&gt;, onComplete: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "98C401B6-5034-4B37-8017-4EFA3EB9993F - 232e052792b961e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.CartWorker.checkout(pizzaList: Swift.Array&lt;NennoPizza.Home.FetchPizza.Pizza&gt;, drinkIds: Swift.Array&lt;Swift.Int&gt;, onComplete: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NennoPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartWorker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AC823F0-2F62-4EEE-A263-B04747A467BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NennoPizza/Scenes/Cart/CartInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "checkout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
