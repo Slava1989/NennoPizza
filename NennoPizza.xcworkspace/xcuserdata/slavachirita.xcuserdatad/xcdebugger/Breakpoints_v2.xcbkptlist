@@ -1771,22 +1771,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2505A09C-7C84-46B5-AB45-14E09DB8C749"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NennoPizza/Scenes/Cart/CartWorker.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
-            landmarkName = "checkout(pizzaList:drinkIds:onComplete:)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "3FECE521-97A1-407C-992E-762205B20FC0"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -1798,54 +1782,6 @@
             endingLineNumber = "25"
             landmarkName = "checkout(pizzaList:drinkIds:onComplete:)"
             landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "98C401B6-5034-4B37-8017-4EFA3EB9993F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NennoPizza/Scenes/Cart/CartWorker.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "checkout(pizzaList:drinkIds:onComplete:)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "98C401B6-5034-4B37-8017-4EFA3EB9993F - 1960871e6b8ab1df"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "NennoPizza.CartWorker.checkout(pizzaList: Swift.Array&lt;NennoPizza.Home.FetchPizza.Pizza&gt;, drinkIds: Swift.Array&lt;Swift.Int&gt;, onComplete: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "NennoPizza"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartWorker.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "35"
-                  endingLineNumber = "35"
-                  offsetFromSymbolStart = "868">
-               </Location>
-               <Location
-                  uuid = "98C401B6-5034-4B37-8017-4EFA3EB9993F - 232e052792b961e4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NennoPizza.CartWorker.checkout(pizzaList: Swift.Array&lt;NennoPizza.Home.FetchPizza.Pizza&gt;, drinkIds: Swift.Array&lt;Swift.Int&gt;, onComplete: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "NennoPizza"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/slavachirita/Desktop/NennoPizza/NennoPizza/Scenes/Cart/CartWorker.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "35"
-                  endingLineNumber = "35"
-                  offsetFromSymbolStart = "256">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

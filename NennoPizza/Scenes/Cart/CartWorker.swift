@@ -26,12 +26,7 @@ final class CartWorker: CartWorkerInterface {
                 onComplete("Something went wrong during ingridients request")
                 return
             }
-            
-            do {
-                onComplete(nil)
-            } catch {
-                onComplete("Error while decoding ingridient data")
-            }
+            onComplete(nil)
         }.resume()
     }
 }
